@@ -13,7 +13,6 @@
 #include "Blueprint/IUserObjectListEntry.h"
 #include "Containers/Array.h"
 #include "Containers/Map.h"
-#include "InstancedStruct.h"
 #include "UI/Interfaces/IModioUIClickableWidget.h"
 #include "UI/Interfaces/IModioUICommandMenu.h"
 #include "UI/Interfaces/IModioUIDataSourceWidget.h"
